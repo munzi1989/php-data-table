@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 50;
+    margin: 20px;
+}
+
+.thumb-img {
+
+    width: 50px;
+}
+
+.update-img{
+    width: 120px;
+}
+
+footer > div {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.4;
+
+}
+
